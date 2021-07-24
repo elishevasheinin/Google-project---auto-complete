@@ -1,0 +1,9 @@
+.idea/*
+venv/*
+.git/*
+__pycache__/*
+2021-archive/*
+2021-archive.zip/*
+
+main.py
+my_db.json

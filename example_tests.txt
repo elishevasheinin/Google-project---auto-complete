@@ -1,0 +1,30 @@
+
+TEST: simple one word test
+english/simple/
+this is
+This is a good day.
+I am happy because this is fun.
+Why do you think this difficult?
+EMPTY
+EMPTY
+
+
+TEST: another test
+x/english/simple/
+one two three
+a b c
+d e f
+gh i
+j k l m
+n o p
+
+
+
+TEST: good test
+x/english/simple/
+one two three
+wrong 0
+wrong 1
+wrong 2
+wrong 3
+wrong 4
